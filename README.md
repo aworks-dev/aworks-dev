@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a developer specializing in python.
 * [freeCodeCamp Python Certificate](https://github.com/aworks-dev/Python-Certificate)
 
 ## 🚀 Featured Projects
-* **[Truck-Rental-Python]((https://github.com/aworks-dev/Truck-Rental-Python))** - This project showcases a menu that is used to help input information to get the right price for each rental.
+* **[Truck-Rental-Python](https://github.com/aworks-dev/Truck-Rental-Python)** - This project showcases a menu that is used to help input information to get the right price for each rental.
 * **[Hanoi Tower Algorithm](https://github.com/aworks-dev/Hanoi-Tower-Algorithm)** - Calculating the moves allowed using double recursion.
 * **[N Queens](https://github.com/aworks-dev/N-Queens)** - A puzzle algorithm that uses backtracking and depth first.
 * **[Dijkstra Algorithm](https://github.com/aworks-dev/Dijkstra-Algorithm-shortest-path-algorithm-)** - An algorithm that finds the shortest path from the starting node to the target node
